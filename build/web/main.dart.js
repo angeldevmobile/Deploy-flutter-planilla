@@ -51028,7 +51028,7 @@ q=A.a([new A.aR(2,B.B,A.G(q).dy.eN(B.c.ah(25.5)),B.h,10)],t.V)}else q=k
 p=l.c
 p.toString
 o=t.p
-q=A.ay(A.a([B.aqO,B.dU,A.aN(A.ea(k,A.fB(!0,B.b9,!1,k,!0,B.x,k,A.h1(),k,A.G(p).dy,k,k,k,k,2,B.ZE,B.K,!0,k,!0,k,!1,l.e,B.be,k,k,k,k,k,k,k,1,k,k,!1,"\u2022",k,k,k,k,k,!1,k,k,!1,k,!0,k,B.b_,k,k,B.b7,B.aZ,k,k,k,k,k,k,B.qO,!0,B.a4,k,B.bw,k,k,k,k),k,k,B.cy,new A.av(k,k,s,r,q,k,B.w),B.L,k,k,k,B.ku,k),2),B.ap,A.cT(k,k,new A.Qd(8,B.oW,k),k,k,new A.aEX(),k,k,k,k),B.ap,A.ex(k,new A.ry(k,new A.rj("images/user_avatar.png",k,k),20,k),B.K,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.aEY(),k,k,k,k,k,k,!1,B.b1)],o),B.o,B.f,B.k,k)
+q=A.ay(A.a([B.aqO,B.dU,A.aN(A.ea(k,A.fB(!0,B.b9,!1,k,!0,B.x,k,A.h1(),k,A.G(p).dy,k,k,k,k,2,B.ZE,B.K,!0,k,!0,k,!1,l.e,B.be,k,k,k,k,k,k,k,1,k,k,!1,"\u2022",k,k,k,k,k,!1,k,k,!1,k,!0,k,B.b_,k,k,B.b7,B.aZ,k,k,k,k,k,k,B.qO,!0,B.a4,k,B.bw,k,k,k,k),k,k,B.cy,new A.av(k,k,s,r,q,k,B.w),B.L,k,k,k,B.ku,k),2),B.ap,A.cT(k,k,new A.Qd(8,B.oW,k),k,k,new A.aEX(),k,k,k,k),B.ap,A.ex(k,new A.ry(k,new A.rj("assets/images/user_avatar.png",k,k),20,k),B.K,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.aEY(),k,k,k,k,k,k,!1,B.b1)],o),B.o,B.f,B.k,k)
 r=A.P("Aqu\xed est\xe1 su resumen de n\xf3mina.",k,k,k,A.bf(k,k,B.br,k,k,k,k,k,k,k,k,14,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)
 s=l.r
 s===$&&A.b()
@@ -52605,7 +52605,7 @@ F(a){var s,r,q=null,p=A.bt(a,q,t.l).w.a,o=p.a
 if(o<600)return B.aR
 s=A.a3(20)
 r=A.a([new A.aR(5,B.B,A.b0(B.c.aY(76.5),B.m.I()>>>16&255,B.m.I()>>>8&255,B.m.I()&255),B.h,20)],t.V)
-return A.aA(q,A.adA(A.a3(20),A.fy(B.bz,A.a([A.Gd(0,A.aQB("images/planilla_form.gif",B.ny,q,q)),A.aA(q,q,B.n,q,q,new A.av(q,q,q,q,q,new A.dT(B.es,B.f_,B.aK,A.a([B.l,A.b0(B.c.aY(127.5),B.m.I()>>>16&255,B.m.I()>>>8&255,B.m.I()&255)],t.W),q,q),B.w),q,q,q,q,q,q,q,q),B.aeu],t.p),B.x,B.bh,q),B.cj),B.n,q,q,new A.av(q,q,q,s,r,q,B.w),q,p.b*0.8,q,B.v0,q,q,q,o*0.85)}}
+return A.aA(q,A.adA(A.a3(20),A.fy(B.bz,A.a([A.Gd(0,A.aQB("assets/images/planilla_form.gif",B.ny,q,q)),A.aA(q,q,B.n,q,q,new A.av(q,q,q,q,q,new A.dT(B.es,B.f_,B.aK,A.a([B.l,A.b0(B.c.aY(127.5),B.m.I()>>>16&255,B.m.I()>>>8&255,B.m.I()&255)],t.W),q,q),B.w),q,q,q,q,q,q,q,q),B.aeu],t.p),B.x,B.bh,q),B.cj),B.n,q,q,new A.av(q,q,q,s,r,q,B.w),q,p.b*0.8,q,B.v0,q,q,q,o*0.85)}}
 A.Uk.prototype={
 F(a){var s=null,r=A.a([B.fX,B.ih],t.W),q=A.a([new A.aR(5,B.B,A.b0(102,B.aU.I()>>>16&255,B.aU.I()>>>8&255,B.aU.I()&255),B.h,15)],t.V)
 return A.aA(s,new A.a7(new A.a4(16,16,16,16),A.cG(B.vt,B.j,s,60),s),B.n,s,s,new A.av(s,s,s,s,q,new A.dT(B.b5,B.cg,B.aK,r,s,s),B.bA),s,s,s,s,s,s,s,s)}}
