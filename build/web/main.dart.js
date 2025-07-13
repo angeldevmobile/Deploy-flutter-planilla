@@ -49028,7 +49028,7 @@ case 1:return A.L(q,r)}})
 return A.M($async$EU,r)}}
 A.aaR.prototype={
 $1(a){var s=J.au(a)
-return new A.iZ(s.h(a,"mes"),s.h(a,"anio"),s.h(a,"totalAsistencias"))},
+return new A.iZ(s.h(a,"mes"),s.h(a,"anio"),s.h(a,"total_asistencias"))},
 $S:590}
 A.ZU.prototype={
 k(a){return this.a},
