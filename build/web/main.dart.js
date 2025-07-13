@@ -7676,29 +7676,31 @@ _.dx=a2
 _.dy=a3
 _.fr=a4
 _.fx=a5},
-aY4(a){var s,r,q,p,o,n,m,l,k,j,i=J.au(a),h=i.h(a,"nombres")
-if(h==null)h=""
-s=i.h(a,"apellidos")
+aY4(a){var s,r,q,p,o,n,m,l,k,j,i,h=J.au(a),g=h.h(a,"nombres")
+if(g==null)g=""
+s=h.h(a,"apellidos")
 if(s==null)s=""
-r=i.h(a,"dni")
+r=h.h(a,"dni")
 if(r==null)r=""
-q=i.h(a,"telefono")
+q=h.h(a,"telefono")
 if(q==null)q=""
-p=i.h(a,"correo")
+p=h.h(a,"correo")
 if(p==null)p=""
-o=i.h(a,"direccion")
+o=h.h(a,"direccion")
 if(o==null)o=""
-n=i.h(a,"rol")
+n=h.h(a,"rol")
 if(n==null)n=""
-m=i.h(a,"idLogeo")
+m=h.h(a,"idLogeo")
 if(m==null)m=""
-l=i.h(a,"cargo")
+l=h.h(a,"cargo")
 if(l==null)l=""
-k=i.h(a,"fecha_ingreso")
+k=h.h(a,"fecha_ingreso")
 if(k==null)k=""
-j=i.h(a,"fecha_nacimiento")
+j=h.h(a,"fecha_nacimiento")
 if(j==null)j=""
-return new A.zx(h,s,r,q,p,o,n,m,l,k,j,i.h(a,"id_usuario"))},
+i=h.h(a,"id_usuario")
+h=i==null?h.h(a,"idUsuario"):i
+return new A.zx(g,s,r,q,p,o,n,m,l,k,j,h==null?0:h)},
 zx:function zx(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
 _.a=a
 _.b=b
@@ -49024,7 +49026,7 @@ o=J.au(p)
 n=o.h(p,"justificadas")
 if(n==null)n=0
 o=o.h(p,"no_justificadas")
-q=A.am(["justificadas",n,"noJustificadas",o==null?0:o],t.N,t.S)
+q=A.am(["justificadas",n,"no_justificadas",o==null?0:o],t.N,t.S)
 s=1
 break}else throw A.h(A.cN("Error al obtener ausencias para gr\xe1fico circular"))
 case 1:return A.L(q,r)}})
