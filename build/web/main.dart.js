@@ -48996,7 +48996,7 @@ return A.U(A.fl(A.c8("https://backend-planilla-web.onrender.com/api/dashboard-st
 case 3:n=c
 if(n.b===200){p=B.an.kL(0,A.cM(A.cL(n.e)).by(0,n.w),null)
 o=J.au(p)
-q=new A.wO(J.c4(o.h(p,"porcentajeAsistencia")),o.h(p,"vacaciones"),o.h(p,"ausencias"),o.h(p,"asistencias"))
+q=new A.wO(J.c4(o.h(p,"porcentaje_asistencia")),o.h(p,"vacaciones"),o.h(p,"ausencias"),o.h(p,"asistencias"))
 s=1
 break}else throw A.h(A.cN("Error al obtener estad\xedsticas"))
 case 1:return A.L(q,r)}})
