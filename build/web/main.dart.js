@@ -7699,8 +7699,7 @@ if(k==null)k=""
 j=h.h(a,"fecha_nacimiento")
 if(j==null)j=""
 i=h.h(a,"id_usuario")
-h=i==null?h.h(a,"idUsuario"):i
-return new A.zx(g,s,r,q,p,o,n,m,l,k,j,h==null?0:h)},
+return new A.zx(g,s,r,q,p,o,n,m,l,k,j,i==null?h.h(a,"idUsuario"):i)},
 zx:function zx(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
 _.a=a
 _.b=b
